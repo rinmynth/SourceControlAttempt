@@ -6,5 +6,20 @@ namespace SourceControlAttempt
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("Why u click?");
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            MessageBox.Show("Why u click?");
+        }
     }
 }

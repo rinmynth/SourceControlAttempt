@@ -33,12 +33,13 @@
             // 
             // button1
             // 
-            button1.Location = new Point(238, 144);
+            button1.Location = new Point(383, 112);
             button1.Name = "button1";
             button1.Size = new Size(127, 80);
             button1.TabIndex = 0;
             button1.Text = "button1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_2;
             // 
             // Form1
             // 
