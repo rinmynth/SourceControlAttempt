@@ -33,7 +33,7 @@
             // 
             // BtnRikka
             // 
-            BtnRikka.Location = new Point(383, 112);
+            BtnRikka.Location = new Point(150, 167);
             BtnRikka.Name = "BtnRikka";
             BtnRikka.Size = new Size(127, 80);
             BtnRikka.TabIndex = 0;
